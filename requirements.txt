@@ -1,0 +1,2 @@
+# Bu proje yalnizca Python standart kutuphanesini kullanir.
+# Ek paket kurulumu gerekmez.
